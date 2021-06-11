@@ -1,0 +1,7 @@
+[
+    {"name" : "Raj", "address" : "Patna", "email":"raj@gmail.com", "rating":5},
+    {"name" : "Ranjan", "address" : "Goa", "email":"ranjan@gmail.com", "rating":4},
+    {"name" : "Anil", "address" : "Delhi", "email":"anil@gmail.com", "rating":3},
+    {"name" : "Ankit", "address" : "kolkata" ,"email":"ankit@gmail.com", "rating":2},
+    {"name" : "Aditya", "address" : "Lucknow", "email":"aditya@gmail.com", "rating":1}
+]
